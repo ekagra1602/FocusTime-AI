@@ -10,6 +10,6 @@ def home():
 @main.route("/create-user", methods=["GET"])
 def create_user():
     new_user = User(username="testuser", email="testuser@example.com")
-    db.session.add(new_user)
+    db.session.add(new_use)
     db.session.commit()
     return jsonify({"message": "User created successfully"})
