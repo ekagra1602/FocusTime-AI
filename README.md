@@ -40,18 +40,6 @@ Database
 
 PostgreSQL: To manage user data securely and efficiently.
 
-📂 Project Structure
-
-FocusTimeAI/
-|-- frontend/                # React-based frontend code
-|-- backend/                 # Flask API and backend services
-|-- models/                  # TensorFlow models for gesture analysis
-|-- media_processing/        # MediaPipe Holistic integration
-|-- static/                  # Static files like CSS, images, etc.
-|-- templates/               # Flask templates for rendering
-|-- requirements.txt         # Python dependencies
-|-- README.md                # Project documentation
-
 🚀 Getting Started
 
 Prerequisites
