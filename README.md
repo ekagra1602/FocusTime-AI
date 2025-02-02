@@ -40,56 +40,6 @@ Database
 
 PostgreSQL: To manage user data securely and efficiently.
 
-🚀 Getting Started
-
-Prerequisites
-
-Python 3.8+
-
-Node.js 16+
-
-PostgreSQL 13+
-
-Installation
-
-Clone the Repository:
-
-git clone https://github.com/ekagra1602/FocusTime-AI
-cd FocusTimeAI
-
-Set Up Backend:
-
-cd backend
-python3 -m venv venv
-source venv/bin/activate  # For Linux/MacOS
-venv\Scripts\activate    # For Windows
-pip install -r requirements.txt
-
-Set Up Frontend:
-
-cd ../frontend
-npm install
-
-Set Up Database:
-
-Create a PostgreSQL database.
-
-Update database credentials in backend/config.py.
-
-Run the Application:
-
-Backend:
-
-cd backend
-flask run
-
-Frontend:
-
-cd ../frontend
-npm start
-
-Access the App:
-Open your browser and navigate to http://localhost:3000.
 
 🧠 How It Works
 
@@ -105,13 +55,6 @@ Feedback Loop:
 
 If distraction is detected, the app provides prompts or suggestions to refocus.
 
-🛡️ Security & Privacy
-
-FocusTime AI is designed with user privacy in mind. No personal data or video streams are stored. Only processed gesture data is used to enhance the user experience.
-
-🐛 Bug Reporting
-
-If you encounter any bugs, please open an issue in the repository with detailed steps to reproduce the problem.
 
 📜 License
 
@@ -119,7 +62,7 @@ This project is licensed under the MIT License.
 
 📧 Contact
 
-For questions or support, contact us at your-email@example.com.
+For questions or support, contact us at egupta3@asu.edu
 
 ✨ Acknowledgments
 
