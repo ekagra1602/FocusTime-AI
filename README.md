@@ -32,7 +32,7 @@ Flask: Lightweight and efficient framework for API development.
 
 Machine Learning & Computer Vision
 
-MediaPipe Holistic: To extract 471 key points from body, hand, and face landmarks.
+MediaPipe Holistic: To extract 543 key points from body, hand, and face landmarks.
 
 TensorFlow: For training and deploying gesture analysis models.
 
