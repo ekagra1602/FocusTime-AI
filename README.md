@@ -2,10 +2,6 @@ FocusTime AI
 
 An AI-powered web application to enhance productivity and combat procrastination using real-time gesture analysis.
 
-📌 Overview
-
-FocusTime AI is a cutting-edge web application that integrates advanced machine learning and computer vision technologies to monitor and improve focus during study sessions. By leveraging MediaPipe Holistic and TensorFlow, the app performs real-time gesture analysis to detect signs of procrastination and provide timely interventions to help users stay on track.
-
 🌟 Features
 
 Real-Time Gesture Detection: Uses MediaPipe Holistic to extract 471 key points, analyzing body posture, hand movements, and facial expressions.
@@ -68,9 +64,6 @@ For questions or support, contact us at egupta3@asu.edu
 
 Google MediaPipe for the Holistic solution.
 
-TensorFlow for enabling robust machine learning.
+TensorFlow for enabling robust deep learning.
 
-Open Source Community for inspiration and tools.
-
-Stay focused and productive with FocusTime AI!
 
