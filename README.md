@@ -4,7 +4,7 @@ An AI-powered web application to enhance productivity and combat procrastination
 
 🌟 Features
 
-Real-Time Gesture Detection: Uses MediaPipe Holistic to extract 471 key points, analyzing body posture, hand movements, and facial expressions.
+Real-Time Gesture Detection: Uses MediaPipe Holistic to extract 543 key points, analyzing body posture, hand movements, and facial expressions.
 
 Machine Learning Integration: TensorFlow-powered models detect gestures associated with procrastination or loss of focus.
 
