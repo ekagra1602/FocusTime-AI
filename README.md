@@ -12,7 +12,7 @@ Actionable Feedback: Provides tailored suggestions and nudges to refocus the use
 
 User-Friendly Interface: Built with React for an intuitive and seamless user experience.
 
-Data Management: PostgreSQL for secure and scalable data storage.
+Database: PostgreSQL for secure and scalable data storage.
 
 Backend Support: Flask for API endpoints and backend functionality.
 
